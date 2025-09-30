@@ -22,7 +22,7 @@ st.subheader("Stock Information")
 col1, col2 = st.columns(2)
 
 with col1:
-    ticker = st.text_input("Stock Ticker", value="", help="Examples: AAPL, MSFT, TSLA").upper()
+    ticker = st.text_input("Stock Ticker", value="AAPL", help="Examples: AAPL, MSFT, TSLA").upper()
 
 with col2:
     period_options = {"1 Year": "1y", "2 Years": "2y", "5 Years": "5y", "Max": "max"}
