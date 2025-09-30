@@ -19,7 +19,7 @@ streamlit run app.py
 
 ## Live Demo
 
-[Add your deployed URL here]
+https://stock-price-predictor-fnrupkcpnjxbxwxgcpbsei.streamlit.app/
 
 ## Disclaimer
 
